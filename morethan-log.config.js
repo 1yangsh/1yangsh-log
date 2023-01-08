@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: 'Untilled',
-      href: 'https://untilled.web.app'
+      name: 'velog',
+      href: 'https://velog.io/@1yangsh'
     }
   ],
   // blog setting (required)
